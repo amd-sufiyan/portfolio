@@ -1,0 +1,1698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav",
+				"nav\tnav - Placeholder"
+			],
+			[
+				"the_a",
+				"the_author_link"
+			],
+			[
+				"cla",
+				"class\tNew Class"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"pas",
+				"paste_in_new_line\tTo Do List"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"class",
+				"class\tNew Class"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"paste",
+				"paste_and_indent\tbuilt-in"
+			],
+			[
+				"remo",
+				"remove_empty_line\tTo Do List"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"py",
+				"py_to_len\tTo Do List"
+			],
+			[
+				"Ind",
+				"IndexError\terror"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"comp",
+				"compile\tcompile"
+			],
+			[
+				"ty",
+				"type\ttype"
+			],
+			[
+				"__",
+				"__file__\tmagic"
+			],
+			[
+				"clas",
+				"class\tNew Class"
+			],
+			[
+				"col",
+				"colorlib_themes\tUser"
+			],
+			[
+				"fa-shopping-ba",
+				"fa-shopping-basket \tfa"
+			],
+			[
+				"pb",
+				"padding-bottom\tproperty"
+			],
+			[
+				"list",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"input-bt",
+				"input-btn-padding-x\tbsVar"
+			],
+			[
+				"transform",
+				"transform-origin\tproperty"
+			],
+			[
+				"scrol",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"cs",
+				"css\t.css() - multiple"
+			],
+			[
+				"scr",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"sel",
+				"select_all\tbuilt-in"
+			],
+			[
+				"se",
+				"select_all\tbuilt-in"
+			],
+			[
+				"duplicate",
+				"duplicate_and_increment\tDuplicate And Increment"
+			],
+			[
+				"sc",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"resp",
+				"table-responsive \tBootstrap 4 Class"
+			],
+			[
+				"fa-",
+				"fa-angellist \tfa"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"bg",
+				"bg-secondary \tBootstrap 4 Class"
+			],
+			[
+				"pt",
+				"pt\tpadding-top"
+			],
+			[
+				"for",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"ge",
+				"getElementsByClassName"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"fun",
+				"focusin\t.focusin()"
+			],
+			[
+				"border",
+				"border-0 \tBootstrap 4 Class"
+			],
+			[
+				"fa-l",
+				"fa-leanpub \tfa"
+			],
+			[
+				"fa-ph",
+				"fa-product-hunt \tfa"
+			],
+			[
+				"fa-mo",
+				"fa-money \tfa"
+			],
+			[
+				"fa-eye",
+				"fa-eyedropper \tfa"
+			],
+			[
+				"fa-ey",
+				"fa-eye-slash \tfa"
+			],
+			[
+				"bdb",
+				"bdb+\tborder-bottom: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"ls",
+				"lis-n\tlist-style: none;"
+			],
+			[
+				"fa-sho",
+				"fa-shopping-basket \tfa"
+			],
+			[
+				"fa-tra",
+				"fa-trash-o \tfa"
+			],
+			[
+				"bor",
+				"border-0 \tBootstrap 4 Class"
+			],
+			[
+				"btn-",
+				"btn-outline-light \tBootstrap 4 Class"
+			],
+			[
+				"te",
+				"text-light \tBootstrap 4 Class"
+			],
+			[
+				"tex-",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"broser",
+				"browsersync"
+			],
+			[
+				"wa",
+				"watchFiles"
+			],
+			[
+				"ba",
+				"basedir"
+			],
+			[
+				"pop",
+				"popper_js"
+			],
+			[
+				"aa_enq",
+				"aa_wp_enqueue_scripts"
+			],
+			[
+				"the_post_th",
+				"the_post_thumbnail_url"
+			],
+			[
+				"the_pos",
+				"the_post_thumbnail"
+			],
+			[
+				"is_su",
+				"is_super_admin"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"ite",
+				"item_output"
+			],
+			[
+				"the_wi",
+				"the_widget"
+			],
+			[
+				"the_w",
+				"the_widget"
+			],
+			[
+				"Glazom",
+				"GlazomListTable"
+			],
+			[
+				"backgr",
+				"background_color"
+			],
+			[
+				"gla",
+				"glazom_styles"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_scripts"
+			],
+			[
+				"glazom",
+				"glazom_setup"
+			],
+			[
+				"my",
+				"my_logo"
+			],
+			[
+				"backg",
+				"background_color"
+			],
+			[
+				"aa_wp",
+				"aa_wp_head"
+			],
+			[
+				"WP_Cus",
+				"WP_Customize_Color_Control"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"f",
+				"foreach\tforeach …"
+			],
+			[
+				"get_cur",
+				"get_current_screen"
+			],
+			[
+				"get_them",
+				"get_theme_mod"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"wpc",
+				"wpCustomizerAddControlImage\tWP Customizer Add Control Image"
+			],
+			[
+				"register_re",
+				"register_rest_field"
+			],
+			[
+				"register_si",
+				"register_sidebar_widget"
+			],
+			[
+				"re",
+				"register_taxonomy\tRegister Taxonomy All Options"
+			],
+			[
+				"register_pos",
+				"register_post_type\tRegister Post Type All Options"
+			],
+			[
+				"php",
+				"php\tPHTML: <?php ... ?>"
+			],
+			[
+				"add_th",
+				"add_theme_support"
+			],
+			[
+				"aa_af",
+				"aa_after_setup_theme"
+			],
+			[
+				"w",
+				"widget\tWidget Template"
+			],
+			[
+				"wh",
+				"whitelist_options"
+			],
+			[
+				"loo",
+				"loop_start"
+			],
+			[
+				"aa",
+				"aa_init"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_script\tenqueue_script"
+			],
+			[
+				"regi",
+				"register_taxonomy\tRegister Taxonomy All Options"
+			],
+			[
+				"reg",
+				"register_sidebar\tregister_sidebar All Options"
+			],
+			[
+				"rg",
+				"register_post_type\tRegister Post Type All Options"
+			],
+			[
+				"browserS",
+				"browserSyncReload"
+			],
+			[
+				"br",
+				"browserSync"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ha",
+				"hallo"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"trf",
+				"trf-t\ttransform: translate(${1:x}, ${2:y});"
+			],
+			[
+				"s",
+				"flex-start\talign-items"
+			],
+			[
+				"ac",
+				"ac-fe\talign-content: flex-end;"
+			],
+			[
+				"fx",
+				"fxw\tflex-wrap"
+			],
+			[
+				"bd",
+				"bd+\tborder: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"t",
+				"trs\ttransition: ${1:prop} ${2:time};"
+			],
+			[
+				"jc",
+				"jc-sa\tjustify-content: space-around;"
+			],
+			[
+				"j",
+				"jc-sb\tjustify-content: space-between;"
+			],
+			[
+				"ff",
+				"ff-t\tfont-family: \"Times New Roman\", Times, Baskerville, Georgia, serif;"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"create_",
+				"create_django_url_clipboard\tDjango-Model-Converter"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"r",
+				"right\tfloat"
+			],
+			[
+				"aut",
+				".m-auto\tb4"
+			],
+			[
+				"n",
+				"none\ttext-decoration"
+			],
+			[
+				"lstn",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text-c",
+				".text-center\tb4"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 3010,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "__src__/_pug_/index.pug",
+			"settings":
+			{
+				"buffer_size": 3173,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xBabel.sublime-build",
+					""
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xBabel.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+					""
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+					"Harmony"
+				],
+				[
+					"Packages/User/node-dev.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/javascript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Pug/Pug.sublime-build",
+					""
+				],
+				[
+					"Packages/pug-tmbundle/Pug.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/pug-tmbundle/Pug.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Build/py -27.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.5.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Build/py -27.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.5.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Build/py -3.6.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Build/py -3.6.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					"Transric2"
+				],
+				[
+					"Packages/User/Build/transric.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/transric.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Build/py -3.6.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					"Transric2"
+				]
+			],
+			[
+				"Packages/User/Build/py -3.6.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/py -3.6.sublime-build",
+					"Transric2"
+				]
+			],
+			[
+				"Packages/User/Build/py -3.6.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/transli.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/transli.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Build/transli.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Build/transric.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/transric.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Build/transric.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/node-dev.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/javascript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Build/javascript.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"sass",
+				"Build With: Sass (libsass)"
+			],
+			[
+				"scop",
+				"Select all by current scope"
+			],
+			[
+				"ma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"e",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ex",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pe",
+				"Package Control: Enable Package"
+			],
+			[
+				"conf",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"be",
+				"SassBeautify"
+			],
+			[
+				"scope",
+				"Select all by current scope"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"pae",
+				"Package Control: Enable Package"
+			],
+			[
+				"ne",
+				"File Manager: New File"
+			],
+			[
+				"crea",
+				"Package Control: Create Package File"
+			],
+			[
+				":nf",
+				"ANF: New File"
+			],
+			[
+				":singl",
+				"Switch Settings: Show Settings-List"
+			],
+			[
+				"cal",
+				"Calculate: Add all selections"
+			],
+			[
+				"c",
+				"Calculate: Increment"
+			],
+			[
+				"sele",
+				"Select all by current scope"
+			],
+			[
+				"mov",
+				"Move selection to file ..."
+			],
+			[
+				"datp",
+				"DataConverter: to JavaScript object"
+			],
+			[
+				"mo",
+				"File Manager: Move"
+			],
+			[
+				"so",
+				"ABCSS: Sort SASS"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"snippet:jd",
+				"Snippet: adjust-hue()"
+			],
+			[
+				"snipkd",
+				"Snippet: darken()"
+			],
+			[
+				"sort",
+				"ABCSS: Sort SASS"
+			],
+			[
+				"m",
+				"Snippet: MyFrame"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"beat",
+				"SassBeautify"
+			],
+			[
+				"mark",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"p",
+				"Package Control: Disable Package"
+			],
+			[
+				"sublimeb",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"bet",
+				"BetterBookmarks: Previous Bookmark"
+			],
+			[
+				"pdbs",
+				"Find PDBs: Open files only"
+			],
+			[
+				"flake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"yaml",
+				"PackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"haml",
+				"HTML2Haml: Convert file"
+			],
+			[
+				"slim",
+				"HTML2Slim: Convert file"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"resul",
+				"Copy from Find Results"
+			],
+			[
+				"mini",
+				"Minify::Default File Settings"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"sav",
+				"Toggle AutoSave: current file only"
+			],
+			[
+				"Package ",
+				"Package Control: Enable Package"
+			],
+			[
+				"ext",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"mak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"con",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"mar",
+				"Markdown HTML Preview"
+			],
+			[
+				"api",
+				"Sublime Text API Helper: sublime.Selection.*"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mv",
+				"Move selection to file ..."
+			],
+			[
+				"re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Extract Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_command(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import TK",
+			"import tkinter",
+			"print('din')",
+			"dir(macro)",
+			"dir($macro)",
+			"sublime.log_commands(True)",
+			"html_beautify"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/V/_website/Sufiyan Portfolio",
+		"/V/_website/Sufiyan Portfolio/__src__",
+		"/V/_website/Sufiyan Portfolio/__src__/_pug_",
+		"/V/_website/Sufiyan Portfolio/_Design"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/Python36-32/Lib/argparse.py",
+		"/V/_website/Sufiyan Portfolio/Tasks.todo",
+		"/V/_Laragon/www/firstTesate/wp-content/themes/tosoto/_src/_pug",
+		"/F/App/tor-win32-0.4.4.6/SlimJet/Extensions/external_extensions.json",
+		"/V/_website/khusus_input/__src__/_pug_/frontpage.pug",
+		"/V/_website/khusus_input/__src__/_pug_/contact.pug",
+		"/V/_website/khusus_input/__src__/_style_/dist/style.css",
+		"/V/_website/khusus_input/__src__/_style_/_globals.sass",
+		"/V/_website/khusus_input/__src__/_pug_/partials/pagination.pug",
+		"/V/_website/khusus_input/__src__/_style_/_card.sass",
+		"/V/_website/khusus_input/__src__/_style_/dist/card.css",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/Libsass Build/Libsass Build.sublime-settings",
+		"/V/_website/khusus_input/__src__/_style_/_variables.sass",
+		"/V/_website/khusus_input/__src__/_style_/test.sass",
+		"/V/_website/khusus_input/__src__/_style_/style.sass",
+		"/V/_website/khusus_input/index.html",
+		"/V/_website/khusus_input/__src__/_style_/dist/test.css",
+		"/V/_website/khusus_input/.gitignore",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/Snippets/card.sublime-snippet",
+		"/V/_website/khusus_input/assets/css/style.css",
+		"/V/_website/khusus_input/__src__/_style_/test.css",
+		"/V/_website/khusus_input/__src__/_pug_/index.html",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/NeoVintageous/CHANGELOG.md",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/SublimeOnSaveBuild/README.md",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/NeoVintageous/Preferences.sublime-settings",
+		"/V/_website/khusus_input/__src__/_js_/coba.js",
+		"/V/_website/khusus_input/bld",
+		"/F/Desktops/coba.css",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/SassBeautify.sublime-settings",
+		"/V/_website/khusus_input/assets/css/font-awesome.min.css",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/EmmetOneLine/Default (Windows).sublime-keymap",
+		"/V/_website/khusus_input/__src__/_pug_/index.pug",
+		"/V/_website/khusus_input/__src__/_style_/style.css",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/Libsass Build.sublime-settings",
+		"/V/_website/khusus_input/gulpfile.js",
+		"/F/Downloads/bemskel-master (1).zip",
+		"/F/Desktops/snippets.json",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/Context.sublime-menu",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/npm/README.md",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/Build/javascript.sublime-build",
+		"/V/_website/khusus_input/__src__/bootstrap-sass/_variables-custom.sass",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/auto_save.sublime-settings",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/auto-save/Default (Windows).sublime-keymap",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/auto-save/auto_save.sublime-settings",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/auto-save/README.md",
+		"/V/_website/khusus_input/__src__/_pug_/partials/layout.pug",
+		"/V/_website/khusus_input/__src__/bootstrap-sass/bootstrap.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/_pug_/partials/html.pug",
+		"/V/_website/foundation_sandbox.dev/index.html",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_joyride.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_keystrokes.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_labels.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_orbit.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_pagination.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_panels.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_pricing-tables.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_progress-bars.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_section.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_side-nav.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_split-buttons.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_sub-nav.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_switch.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_tables.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_thumbs.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_tooltips.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_top-bar.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_type.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_visibility.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_alert-boxes.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/_pug_/index.pug",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_block-grid.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_breadcrumbs.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_button-groups.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_clearing.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_custom-forms.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_dropdown-buttons.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_flex-video.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_forms.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_grid.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_inline-lists.sass",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation/components/_dropdown.sass",
+		"/V/_website/foundation_sandbox.dev/gulpfile.js",
+		"/V/_website/foundation_sandbox.dev/__src__/foundation-sass/foundation.sass",
+		"/F/App/npm/node_modules/foundation/scss/foundation/components/_type.scss",
+		"/V/_website/khusus_input/__src__/_js_/main.js",
+		"/V/_website/khusus_input/assets/js/main.min.js",
+		"/V/_website/khusus_input/__src__/_pug_/partials/html.pug",
+		"/V/_website/new_sate/__src__/colorchek.sass",
+		"/V/_website/new_sate/__src__/_style_/style.sass",
+		"/V/_website/new_sate/__src__/_style_/_footer.sass",
+		"/V/_website/new_sate/suka.py",
+		"/V/_website/new_sate/__src__/check-bla/colorchek.css",
+		"/V/_website/new_sate/__src__/colorchek.css",
+		"/V/_website/new_sate/__src__/_style_/_frontpage.sass",
+		"/V/_website/new_sate/__src__/_pug_/index.pug",
+		"/V/_website/new_sate/__src__/_style_/_globals.sass",
+		"/V/_website/new_sate/__src__/_style_/_grid.sass",
+		"/V/_website/new_sate/__src__/_style_/_navigation.sass",
+		"/V/_website/new_sate/gulpfile.js",
+		"/F/Home/treewiew.py",
+		"/F/Home/roon.py",
+		"/F/Home/apa_ja.py",
+		"/C/Program Files (x86)/wxPython3.0 Docs and Demos/demo/run.py",
+		"/V/_website/new_sate/__src__/_style_/_front.sass",
+		"/V/_website/new_sate/__src__/_pug_/frontpage.pug",
+		"/V/_website/new_sate/__src__/_pug_/login.pug",
+		"/V/_website/new_sate/__src__/_pug_/_check.pug",
+		"/V/_Laragon/www/firstTesate/wp-content/themes/tesate/_src/javascript/main.js",
+		"/V/_website/new_sate/__src__/animate-sass/helpers/_base.sass",
+		"/V/_website/new_sate/__src__/_style_/_check.sass",
+		"/V/_website/new_sate/__src__/_style_/_product-detail.sass",
+		"/V/_website/new_sate/__src__/_style_/_variables.sass",
+		"/V/My Web Sites/developer wordpress - Copy/developer.wordpress.org/index.html",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/restart_apache_service.py",
+		"/V/_website/new_sate/assets/css/style.css",
+		"/V/_website/new_sate/__src__/owl-sass/_theme.sass",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/sufiyan_tool.py",
+		"/V/_website/new_sate/index.html",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/User/Emmet.sublime-settings",
+		"/V/bootsnipp/eiser/js/custom.js",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/Vintage/Default.sublime-keymap",
+		"/F/Home/vimfiles/autoload/plug.vim",
+		"/F/Home/vimfiles/vimrc",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/Vintage/Default (Windows).sublime-keymap",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/Vintage/vintage.py",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/Vintage/vintage_motions.py",
+		"/F/App/SUBLIME TEXT 3/Data/Packages/Vintage/vintage_commands.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3010,
+						"regions":
+						{
+							"better_bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "__src__/_pug_/index.pug",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3173,
+						"regions":
+						{
+							"better_bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 441.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Command-line":
+	{
+		"height": 151.0
+	},
+	"output.autopep8":
+	{
+		"height": 156.0
+	},
+	"output.exec":
+	{
+		"height": 231.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 156.0
+	},
+	"output.project_environment_log":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 59.0
+	},
+	"pinned_build_system": "",
+	"project": "Sufiyan Portfolio.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_fron",
+				"__src__\\_style_\\_front.sass"
+			],
+			[
+				"index.p",
+				"__src__\\_pug_\\index.pug"
+			],
+			[
+				"_f",
+				"__src__\\_style_\\_front.sass"
+			],
+			[
+				"fron",
+				"front-page.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"hom",
+				"home.php"
+			],
+			[
+				"pagi",
+				"inc\\wp-bootstrap4.1-pagination\\wp-bootstrap4.1-pagination.php"
+			],
+			[
+				"heade",
+				"header.php"
+			],
+			[
+				"main",
+				"_src\\javascript\\main.js"
+			],
+			[
+				"ho",
+				"home.php"
+			],
+			[
+				"page-",
+				"page-kontak.php"
+			],
+			[
+				"sing",
+				"tesate\\single.php"
+			],
+			[
+				"class",
+				"tesate\\inc\\class_tesate_sidebar.php"
+			],
+			[
+				"fun",
+				"tesate\\functions.php"
+			],
+			[
+				"gu",
+				"tesate\\gulpfile.js"
+			],
+			[
+				"sty",
+				"_src\\sass\\style.sass"
+			],
+			[
+				"style",
+				"_src\\sass\\style.sass"
+			],
+			[
+				"",
+				"tesate\\functions.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"sig",
+				"page-signup.php"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"cu",
+				"_src\\javascript\\customize_preview.js"
+			],
+			[
+				"home",
+				"home.php"
+			],
+			[
+				"cust",
+				"_src\\javascript\\customize_preview.js"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"f",
+				"footer.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"fo",
+				"footer.php"
+			],
+			[
+				" ma",
+				"inc\\meta-box\\languages\\meta-box-ar.mo"
+			],
+			[
+				"signu",
+				"page-signup.php"
+			],
+			[
+				"style.s",
+				"_src\\sass\\style.sass"
+			],
+			[
+				"s",
+				"_src\\scss\\style.scss"
+			],
+			[
+				"i",
+				"dist\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,8 +1,9 @@
 {
-	"name": "lawu_portfolio",
+	"name": "portfolio",
 	"version": "1.0.0",
 	"description": "",
 	"main": "gulpfile.js",
+	"homepage": "https://amd-sufiyan.github.io/portfolio",
 	"dependencies": {
 		"browser-sync": "^2.26.7",
 		"bs-html-injector": "^3.0.3",
@@ -20,5 +21,5 @@
 		"deploy": "gh-pages -d dist"
 	},
 	"author": "Ahmad Sufiyan <sufiyan.ae@gmail.com>",
-	"license": "ISC"
+	"license": "MIT"
 }

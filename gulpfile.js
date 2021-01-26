@@ -7,6 +7,14 @@ let uglify       = require("gulp-uglify");
 let concat       = require("gulp-concat");
 let htmlInjector = require("bs-html-injector");
 
+// let path = {
+// 	sass: {
+// 		input: "",
+// 		output: "",
+
+// 	},
+// };
+
 function browser_sync(){
 	browserSync.use(htmlInjector, {
 		files: "*.html"
@@ -15,7 +23,7 @@ function browser_sync(){
 		server: {
 			baseDir: ".", 
 		}, 
-		browser: ["slimjet_local"], 
+		browser: ["msedge"], 
 		online: false, 
 		port: 7000, 
 		injectChanges: true, 
@@ -33,7 +41,7 @@ function browserSyncPug(){
 			baseDir: ".", 
 			index: "index.html", 
 		}, 
-		browser: ["slimjet_local"], 
+		browser: ["msedge"], 
 		online: false, 
 		port: 7000, 
 		injectChanges: true, 
@@ -99,9 +107,9 @@ function watchFiles(){
 }
 
 gulp.task("generateFiles", function(){
-	let modules = "f:\\App\\npm\\node_modules\\";
-	gulp.src(`${modules}jquery\\dist\\jquery.min.js`).pipe(gulp.dest("assets/js/"));
-	// gulp.src("f:\\App\\npm\\node_modules\\bootstrap\\scss\\**\\*").pipe(gulp.dest("__src__/bootstrap/scss/"));
+	let modules = "f:/App/npm/node_modules/";
+	gulp.src(`${modules}jquery/dist/jquery.min.js`).pipe(gulp.dest("assets/js/"));
+	// gulp.src("f:/App/npm/node_modules/bootstrap/scss/**/*").pipe(gulp.dest("__src__/bootstrap/scss/"));
 	// gulp.src("siap").pipe(gulp.dest(gulp.dest("__scr__/Jaran Goyang/kdk.js")));
 });
 
@@ -112,3 +120,4 @@ let wpug = gulp.parallel(browserSyncPug, watchPug);
 
 gulp.task("watch", watch)
 gulp.task("wpug", wpug)
+gulp.task("default", wpug)
